@@ -1,0 +1,5 @@
+echo "#mah-workshop-test" >> README.txt
+git init
+
+git add README.txt
+git commit -m "first commit"
